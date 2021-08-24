@@ -1,0 +1,39 @@
+.container {
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.4);
+    padding: 40px;
+    background: #040505;
+	color: white;
+	font-family: sans-serif;
+	border-radius: 3px;
+}
+button {
+    width: 48%;
+}
+.container h3{
+	margin: 0;
+	font-size: 22px;
+	margin-bottom: 20px;
+	font-weight: normal;
+}
+.form-group {
+	background: #09121b;
+	border: 1px solid #dfe2e7;
+	font-size: 18px;
+	font-family: sans-serif;
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 16px;
+	border-radius: 4px;
+	color: white;
+}
+.container p{
+	float: left;
+	font-size: 18px;
+	margin: 0 5px 0 0;
+}
+.container a{
+	font-size: 18px;
+	color: white;
+}

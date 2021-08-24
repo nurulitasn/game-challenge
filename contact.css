@@ -1,0 +1,70 @@
+.container {
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.4);
+    padding: 40px;
+    background: #040505;
+	color: white;
+	font-family: sans-serif;
+	border-radius: 3px;
+}
+button {
+    width: 100%;
+}
+.container h3{
+	margin: 0 40px;
+    padding: 15px;
+    color: rgb(241, 240, 248);
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold
+}
+.container .border{
+    width: 50px;
+    height: 3px;
+    background: rgb(223, 234, 243);
+    margin: 1px auto;
+}
+.form-group input{
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
+.form-group {
+	background: #0a0f14;
+	border: 1px solid #ece9ec;
+	font-size: 18px;
+	font-family: sans-serif;
+	width: 100%;
+	padding: 2%;
+	margin-bottom: 16px;
+	border-radius: 10px;
+	color: white;
+}
+.container textarea{
+    height: 80px;
+    padding: 10px 0;
+    margin-bottom: 40px;  
+}
+
+.container input,
+.container textarea{
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: none;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid rgb(91, 89, 224);
+}
+
+.container textarea{
+    margin-bottom: 20px;
+}
+.container p{
+	float: left;
+	font-size: 18px;
+	margin: 0 5px 0 0;
+}
+.container a{
+	font-size: 18px;
+	color: white;
+}
