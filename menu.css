@@ -1,7 +1,11 @@
 .jumbotron {
     background-image: url(imgg/main-bg.jpg);
     background-size: cover;
-    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 1100px;
     text-align: center;
     margin-top: -250px;
 }

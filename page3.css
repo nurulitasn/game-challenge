@@ -1,0 +1,56 @@
+body {
+    background-image: url(imgg/requirements.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.awal .mulai .text {
+    position: absolute;
+    max-width: 960px;
+    width: 400px;
+    top: 60px;
+    color: white;
+   
+}
+.apa {
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 0.5px;
+    font-size: 1.2vw;
+    color: white;
+    margin-top: 20px;
+    margin-left: 600px;
+    width: 400px;   
+}
+.bisa {
+    margin-top: -50px;
+    margin-left: 180px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2vw;
+}
+.table tr th {
+    letter-spacing: 0.35px;
+    font-size: 14px;
+    color: white;
+    padding: 3px;
+    text-align: left;
+    width: 100px;
+    border: 1px solid #dee2e685;
+}
+.table {
+    margin-left: 12%;
+    margin-top: 250px;
+}
+h4 {
+    font-weight: 100;
+}
+h3 {
+    margin-right: 300px;
+    margin-top: 1px;
+    color: rgb(230, 158, 5);
+    font-weight: 50;
+}
+th {
+    font-weight: 100px;
+}

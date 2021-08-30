@@ -1,0 +1,81 @@
+body {
+    background-image: url(imgg/features.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.profil {
+    width: 100%;
+    min-height: 200px;
+}
+.profil .profilkiri .text {
+    position: absolute;
+    max-width: 960px;
+    width: 400px;
+    top: 60px;
+    color: white;
+    right: 15%;
+    margin-top: 90px;
+    text-align: left;
+}
+    
+h3 {
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 0.1cm;
+    font-weight: 100;
+    font-size: 1.5vw;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 4vw;
+    letter-spacing: 0.2cm;
+    right: 20%;
+    margin-top: -20px;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 2vw;
+    color: rgb(230, 158, 5);
+    font-weight: 350;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.3vw;
+    color: white;
+    width: 300px;
+    margin-top: -10px;
+}
+.tulisan {
+    margin-top: 40px;
+    font-size: 2vw;
+}
+.kata {
+    margin-top: 30px;
+    font-size: 2vw;
+}
+@media screen and (min-width: 450px) {
+    .profil .profilkiri{
+    width: 100%
+}
+}
+@media screen and (min-width: 550px) {
+    .profil {
+    width: 33%;
+    }
+    
+    .profilkiri {
+        width: 67%;
+    }
+}
+@media screen and (min-width: 800px) {
+    .profil {
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+    
